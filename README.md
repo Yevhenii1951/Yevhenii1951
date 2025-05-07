@@ -1,11 +1,11 @@
-# Привет, я Евгений!
+# Hallo, ich bin Jewgeni!
 
-Это моё портфолио. Здесь будет список моих проектов.
+Das ist mein Portfolio. Hier wird eine Liste meiner Projekte stehen.
 
-## Проекты
+## Projekte
 
-- Калькулятор на JS
-- Сайт-визитка на HTML/CSS
-- Курсовой проект с Node.js
+- Ein Taschenrechner mit JS
+- Eine Visitenkarte-Website mit HTML/CSS
+- Ein Kursprojekt mit Node.js
 
-![Фото котика](https://loremflickr.com/500/400/cat)
+![Katzenfoto](https://loremflickr.com/500/400/cat)
